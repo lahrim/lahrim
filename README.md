@@ -1,4 +1,5 @@
 ### Coucou toi, je m'appelle Lahrim 👋
+<br>
 
 ### La Capsule – BOOTCAMP { 3 mois 2023 }
 - Développement du backend en utilisant Express.js et MongoDB
@@ -10,6 +11,7 @@ Vision, Yours, My movies, Weather app, Hackatweet, Faceup, Locapic, Morning news
 **Utilisation :**
 Express.js (Node.js), Next.js (React), Expo.dev (React native), Javascript, Redux Toolkit, Antd, SASS
 
+<br>
 
 ### KLEE – INTEGRATEUR WEB { 2 ans 2023 }
 - Intégration sur Drupal, Jplatform et Vue.js en HTML5, CSS3, SASS, Bootstrap
@@ -20,29 +22,30 @@ Express.js (Node.js), Next.js (React), Expo.dev (React native), Javascript, Redu
 **Réalisations :** Musée d'Orsay, Sante, Tenup, Ameli, HAS, Restos du cœur, FFT, ...<br>
 **Outils :** Jira, Confluence, Jenkins, Figma, Gitlab, PHPStorm, Visual Studio
 
+<br>
 
 ### SAINT GOBAIN – INTEGRATEUR WEB { 2 ans 2023 }
 - Réalisation et intégration de plusieurs web application sous Vue.js et Django
 - Réalisation des chartes graphique (UI/UX) pour les web application
 - Intégration aux normes W3C, responsive, en utilisant SASS, Bootstrap, Vue.js
-
+<br>
 
 ### RATP – INTEGRATEUR WEB { 2 ans 2023 }
 Mise à jour du site ratp.fr
 
+<br>
 
 ### ARTIFICA – INTEGRATEUR WEB { 2 ans 2023 }
 Intégration de plusieurs sites sous Typo3, JQuery, Bootstrap
 
 **Réalisations :** Gif sur Yvette, St Germain en Laye, Arpajon, Les Ulis, ...
 
+<br>
 
 ### ADOPTE UN MEC – INTEGRATEUR WEB { 2 ans 2023 }
 Refonte du site au complet avec SASS, PHP et JQuery
 
-
 <br>
-
 
 | | |
 |-|-|
