@@ -41,7 +41,7 @@ Intégration de plusieurs sites sous Typo3, JQuery, Bootstrap
 Refonte du site au complet avec SASS, PHP et JQuery
 
 
-<br><br>
+<br>
 
 
 | | |
