@@ -1,7 +1,7 @@
 ### Coucou toi, je m'appelle Lahrim 👋
 <br>
 
-### La Capsule – BOOTCAMP { 3 mois 2023 }
+### La Capsule – BOOTCAMP { 3 mois 2024 }
 - Développement du backend en utilisant Express.js et MongoDB
 - Développement du frontend web avec Next.js, Redux Toolkit, Antd et Sass
 - Développement d'application mobile avec Expo.dev
