@@ -24,25 +24,25 @@ Express.js (Node.js), Next.js (React), Expo.dev (React native), Javascript, Redu
 
 <br>
 
-### SAINT GOBAIN – INTEGRATEUR WEB { 2 ans 2023 }
+### SAINT GOBAIN – INTEGRATEUR WEB { 3 ans 2021 }
 - Réalisation et intégration de plusieurs web application sous Vue.js et Django
 - Réalisation des chartes graphique (UI/UX) pour les web application
 - Intégration aux normes W3C, responsive, en utilisant SASS, Bootstrap, Vue.js
 <br>
 
-### RATP – INTEGRATEUR WEB { 2 ans 2023 }
+### RATP – INTEGRATEUR WEB { 3 mois 2017 }
 Mise à jour du site ratp.fr
 
 <br>
 
-### ARTIFICA – INTEGRATEUR WEB { 2 ans 2023 }
+### ARTIFICA – INTEGRATEUR WEB { 4 mois 2017 }
 Intégration de plusieurs sites sous Typo3, JQuery, Bootstrap
 
 **Réalisations :** Gif sur Yvette, St Germain en Laye, Arpajon, Les Ulis, ...
 
 <br>
 
-### ADOPTE UN MEC – INTEGRATEUR WEB { 2 ans 2023 }
+### ADOPTE UN MEC – INTEGRATEUR WEB { 8 mois 2016 }
 Refonte du site au complet avec SASS, PHP et JQuery
 
 <br>
